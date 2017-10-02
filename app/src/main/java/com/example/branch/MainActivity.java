@@ -63,4 +63,9 @@ public class MainActivity extends AppCompatActivity {
             iiString = Integer.toString(ii + 9);
         }
     }
+
+    public void newMethod(){
+        int j = 1 + 1;
+        String name = "Andrew";
+    }
 }
