@@ -64,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    public void newMethod(){
+    public void newMethodFour(){
         int j = 1 + 1;
         String name = "Andrew";
     }
