@@ -73,4 +73,9 @@ public class MainActivity extends AppCompatActivity {
         int j = 1 + 1;
         String name = "Andrew";
     }
+
+    public void newThreeMethod(){
+        int j = 1 + 1;
+        String name = "Andrew";
+    }
 }
