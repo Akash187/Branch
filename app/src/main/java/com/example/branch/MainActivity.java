@@ -68,4 +68,9 @@ public class MainActivity extends AppCompatActivity {
         int j = 1 + 1;
         String name = "Andrew";
     }
+
+    public void newTwoMethod(){
+        int j = 1 + 1;
+        String name = "Andrew";
+    }
 }
