@@ -52,25 +52,15 @@ public class MainActivity extends AppCompatActivity {
 
     public void doSomeWork(){
 
-        int i = 4;
-        int ii = 50;
-        int iii = 836;
+        int i = 45;
+        int ii = 550;
+        int iii = 8836;
 
-        String iString = Integer.toString(ii);
+        String iString = Integer.toString(iii);
         String iiString = null;
 
-        if(iii <= 100){
+        if(iii <= 500){
             iiString = Integer.toString(ii + 9);
         }
-    }
-
-    public void newMethod(){
-        int j = 1 + 1;
-        String name = "Andrew";
-    }
-
-    public void newTwoMethod(){
-        int j = 1 + 1;
-        String name = "Andrew";
     }
 }
